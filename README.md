@@ -13,15 +13,22 @@
 
 ## Introducción
 
-El presente proyecto De acuerdo con el diario El Financiero, con la declaración de emergencia nacional en
-marzo de 2020 por la pandemia del Covid-19, la cancelación de citas médicas aumentó
-y obligó a una adopción general y rápida de procesos para atención digital en la medicina.
-Por otra parte, también la pandemia contribuyó a que se crearan más empresas
-innovadoras que ofrecieran software diseñado para dar soluciones de negocio orientadas
-a incrementar la eficiencia de los procesos y la funcionalidad de las operaciones con los
-clientes en distintas áreas y sin involucrar grandes inversiones de dinero.
-Producto de lo anterior, para las entidades de atención en salud, cuya función principal
-es el cuidado y protección de sus usuarios, se pretende con este proyecto, facilitar una
-experiencia virtual amigable y eficiente en el proceso de agendamiento de citas médicas
-a través de un canal virtual, que permita facilitar trámites, ahorrar tiempo, reducir costos
-y permitir un mayor enfoque en la misión de las instituciones. 
+<div align="justify">MAS-SALUD es un proyecto que busca facilitar las citas médicas a los pacientes a través de una herramienta web con acceso a una agenda virtual, y a la vez entrega reportes organizados a los médicos de un consultorio privado con acceso las 24 horas. Este proyecto nace inicialmente para responder al desarrollo académico de la Misión TIC 2021 y luego trasciende su aplicación a una necesidad actual.</div>
+
+## Necesidades a satisfacer
+
+<ul>
+<li type="disc">Facilidad del uso de herramientas virtuales en la solicitud de citas médicas.</li>
+<li type="disc">Apoyo en época de pandemia a disminuir el riesgo de contacto.</li>
+<li type="disc">Experiencia virtual amigable y eficiente en el proceso de agendamiento de citas médicas.</li>
+<li type="disc">Ahorro de tiempo y recursos a los pacientes.</li>
+<li type="disc">Reducción de costos al consultorio y mayor enfoque en su misión.</li>
+</ul>
+
+## Misión
+
+<div align="justify">Desarrollar una aplicación web funcional para un consultorio médico privado, utilizando la metodología scrum, herramientas de desarrollo web, frameworks, base de datos y desarrollo de componentes basados en el lenguaje Python.</div>
+
+## Objetivo
+
+<div align="justify">MÁS SALUD Busca brindar un sistema de agendamiento en línea para optimizar la solicitud de citas médicas para un consultorio médico privado, ofreciendo a sus usuarios una mejor experiencia y disminución en tiempos de respuesta ante sus necesidades de atención médica.</div>
