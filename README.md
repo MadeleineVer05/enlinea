@@ -1,6 +1,10 @@
 <div align="center">
 <h1>Consultorio en linea</h1>
+
+¡Ahora tus citas médicas son online! | Misión Tic 2022  
+  
 <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="120rem" alt="Cat working">
+<br></br>
 
 ![issues shield](https://img.shields.io/github/issues/MadeleineVer05/enlinea)
 ![forks shield](https://img.shields.io/github/forks/MadeleineVer05/enlinea)
