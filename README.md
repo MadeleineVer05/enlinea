@@ -15,7 +15,7 @@
 
 </div>
 
-## Introducción
+## :page_with_curl: Introducción
 
 <div align="justify">MAS-SALUD es un proyecto que busca facilitar las citas médicas a los pacientes a través de una herramienta web con acceso a una agenda virtual, y a la vez entrega reportes organizados a los médicos de un consultorio privado con acceso las 24 horas. Este proyecto nace inicialmente para responder al desarrollo académico de la Misión TIC 2021 y luego trasciende su aplicación a una necesidad actual.</div>
 
