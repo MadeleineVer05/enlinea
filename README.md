@@ -36,3 +36,46 @@
 ## Objetivo
 
 <div align="justify">MÁS SALUD Busca brindar un sistema de agendamiento en línea para optimizar la solicitud de citas médicas para un consultorio médico privado, ofreciendo a sus usuarios una mejor experiencia y disminución en tiempos de respuesta ante sus necesidades de atención médica.</div>
+
+## Roles
+
+<table class="table">
+            <thead style="BORDER:#ffffff 2px dashed; FONT-SIZE: #ffffff; FONT-FAMILY: Arial">
+              <tr>
+                <th scope="col" style="COLOR: #ffffff;">Tripulante</th>
+                <th scope="col"style="COLOR: #ffffff;">Rol del equipo scrum</th>
+                <th scope="col"style="COLOR: #ffffff;">Responsabilidades</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">Rocio del pilar torres</th>
+                <td>Scrum Master</td>
+                <td>Líder de grupo – Frontend y backend</td>
+              </tr>
+              <tr>
+                <th scope="row">Madeleine Vergara Hernández</th>
+                <td>Miembro del equipo de desarrollo</td>
+                <td>Backend y Frontend</td>
+              </tr>
+              <tr>
+                <th scope="row">Luz Dary Rosas Vargas</th>
+                <td>Miembro del equipo de desarrollo</td>
+                <td>Backend y Frontend</td>
+              </tr>
+              <tr>
+                <th scope="row">Carlos David Rosado Oliveros</th>
+                <td>Miembro del equipo de desarrollo</td>
+                <td>Backend y Frontend</td>
+              </tr>
+              <tr>
+                <th scope="row">Dalgy Yineth Delgado Serrano</th>
+                <td>Miembro del equipo de desarrollo</td>
+                <td>Backend y Frontend</td>
+              </tr>
+              <tr>
+                <th scope="row">Jeniffer Andrea Camargo Barajas</th>
+                <td>Miembro del equipo de desarrollo</td>
+                <td>Backend y Frontend</td>
+              </tr>
+            </tbody>
